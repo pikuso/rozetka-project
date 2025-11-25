@@ -1,14 +1,20 @@
 package tests;
 
-import org.testng.Assert;
+import base.BaseTest;
 import org.testng.annotations.Test;
-import tests.pages.CategoryPage;
+import pages.CategoryPage;
+import pages.HomePage;
 
 public class CategoryTest extends BaseTest {
 
     @Test
-    public void checkProductsVisible() {
-        CategoryPage page = new CategoryPage();
-        Assert.assertTrue(page.productsExist(), "Нет товаров на странице");
+    public void userCanOpenCategory() {
+        skipIfCloudflare();
+
+        HomePage home = new HomePage();
+        home.search("ноутбук");
+
+        CategoryPage category = new CategoryPage();
+        category.verifyCategoryOpened("Ноутбуки");
     }
 }

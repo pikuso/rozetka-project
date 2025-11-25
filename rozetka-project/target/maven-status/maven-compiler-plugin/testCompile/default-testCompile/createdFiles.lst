@@ -1,1 +1,16 @@
-tests/playwright/PlaywrightSmokeTest.class
+pages/CartPage.class
+pages/SearchResultsPage.class
+pages/FilterPage.class
+tests/FilterTest.class
+tests/NavigationTest.class
+pages/HomePage.class
+tests/CategoryTest.class
+pages/CategoryPage.class
+tests/CartTest.class
+tests/ProductTest.class
+pages/NavigationMenuPage.class
+tests/SearchTest.class
+pages/ProductPage.class
+tests/SmokeSuite.class
+base/BasePage.class
+base/BaseTest.class

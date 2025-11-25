@@ -3,12 +3,42 @@
 <suite name="Failed suite [Surefire suite]" verbose="0">
   <test thread-count="5" name="Surefire test(failed)" verbose="0">
     <classes>
-      <class name="tests.AddToCartTest">
+      <class name="tests.CategoryTest">
         <methods>
-          <include name="addProductToCart"/>
-          <include name="setup"/>
+          <include name="setUp"/>
+          <include name="userCanOpenCategory"/>
         </methods>
-      </class> <!-- tests.AddToCartTest -->
+      </class> <!-- tests.CategoryTest -->
+      <class name="tests.NavigationTest">
+        <methods>
+          <include name="userCanNavigate"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.NavigationTest -->
+      <class name="tests.FilterTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="userCanFilterByBrand"/>
+        </methods>
+      </class> <!-- tests.FilterTest -->
+      <class name="tests.CartTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="userCanRemoveProductFromCart"/>
+        </methods>
+      </class> <!-- tests.CartTest -->
+      <class name="tests.ProductTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="userCanAddProductToCart"/>
+        </methods>
+      </class> <!-- tests.ProductTest -->
+      <class name="tests.SearchTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="userCanSearchProduct"/>
+        </methods>
+      </class> <!-- tests.SearchTest -->
     </classes>
   </test> <!-- Surefire test(failed) -->
 </suite> <!-- Failed suite [Surefire suite] -->

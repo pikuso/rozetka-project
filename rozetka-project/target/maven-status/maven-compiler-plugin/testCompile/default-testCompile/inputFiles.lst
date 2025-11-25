@@ -1,9 +1,16 @@
-/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/AddToCartTest.java
-/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/FirstTest.java
-/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/pages/HomePage.java
-/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/pages/CategoryPage.java
-/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/pages/CartPage.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/FilterTest.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/pages/ProductPage.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/pages/HomePage.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/NavigationTest.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/pages/CartPage.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/SmokeSuite.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/base/BaseTest.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/ProductTest.java
 /Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/CategoryTest.java
-/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/pages/ProductPage.java
-/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/BaseTest.java
-/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/ playwright/PlaywrightSmokeTest.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/CartTest.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/tests/SearchTest.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/pages/CategoryPage.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/pages/NavigationMenuPage.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/pages/SearchResultsPage.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/pages/FilterPage.java
+/Users/admin/Desktop/rozetka-project/rozetka-project/src/test/java/base/BasePage.java
