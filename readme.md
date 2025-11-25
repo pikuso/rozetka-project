@@ -121,15 +121,10 @@ The project successfully demonstrates:
 
 ---
 
-## 🎥 Demo Video  
-A short demo of the automated tests is provided as part of the project presentation.  
-(Referenced on the final slide.) :contentReference[oaicite:8]{index=8}
-
----
-
 ## 👩‍💻 Author  
-**Polina Ponezha**
+**Polina**
 
 ---
 
 # ⭐ If you like this project, consider starring the repository!
+
